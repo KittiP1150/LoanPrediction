@@ -23,6 +23,7 @@ The dataset is used strictly for educational and analytical purposes under its o
 - Support Vector Classifier (RBF kernel)
 
 ## Project Structure
+'''
 loanpredict/
 ├── data/
 │ └── loan_data_set.csv
@@ -34,6 +35,7 @@ loanpredict/
 ├── tuning_dt.py
 ├── tuning_lr.py
 └── run_compare.py
+'''
 
 
 ## Note
