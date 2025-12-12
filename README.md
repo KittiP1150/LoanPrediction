@@ -1,5 +1,5 @@
 # LoanPrediction
-#Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 This repository explores the trade-offs between different machine learning classifiers for loan approval decisions, focusing on predictive performance, error behavior, and computational efficiency. The project emphasizes application-level considerations rather than accuracy alone.
 
 ## Dataset 
