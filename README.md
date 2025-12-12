@@ -23,20 +23,19 @@ The dataset is used strictly for educational and analytical purposes under its o
 - Support Vector Classifier (RBF kernel)
 
 ## Project Structure
-'''
+```text
 loanpredict/
 ├── data/
-│ └── loan_data_set.csv
+│   └── loan_data_set.csv
 ├── model/
-│ ├── preprocess.py
-│ ├── logistic_regression.py
-│ ├── decision_tree.py
-│ └── svc.py
+│   ├── preprocess.py
+│   ├── logistic_regression.py
+│   ├── decision_tree.py
+│   └── svc.py
 ├── tuning_dt.py
 ├── tuning_lr.py
 └── run_compare.py
-'''
-
+```
 
 ## Note
 This project is intended for educational and analytical purposes and does not represent a production-ready credit scoring system.
