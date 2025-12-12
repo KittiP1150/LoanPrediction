@@ -34,7 +34,8 @@ loanpredict/
 │   └── svc.py
 ├── tuning_dt.py
 ├── tuning_lr.py
-└── run_compare.py
+├── tuning_svc.py
+└── result.py
 ```
 
 ## Note
