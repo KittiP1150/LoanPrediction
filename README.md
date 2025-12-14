@@ -28,6 +28,7 @@ loanpredict/
 ├── data/
 │   └── loan_data_set.csv
 ├── model/
+│   ├── __init__.py
 │   ├── preprocess.py
 │   ├── logistic_regression.py
 │   ├── decision_tree.py
