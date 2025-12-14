@@ -18,9 +18,9 @@ The dataset is used strictly for educational and analytical purposes under its o
 - NumPy
 
 ## Models Evaluated
-- Logistic Regression (L1 regularization)
+- Logistic Regression
 - Decision Tree
-- Support Vector Classifier (RBF kernel)
+- Support Vector Classifier
 
 ## Project Structure
 ```text
